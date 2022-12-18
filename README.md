@@ -1,3 +1,4 @@
+````
 # All Subs
 *.utexas.edu
 *.canva.com
@@ -12,3 +13,5 @@
 www.contentkingapp.com
 app.contentkingapp.com
 app.geckoboard.com
+
+````
